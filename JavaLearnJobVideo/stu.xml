@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<students>
+	<student>
+		<name>zhangsan</name>
+		<age>20		</age>
+	</student>
+	<student>
+		<name>lisi</name>
+		<age>23	</age>
+	</student>
+	<student>
+		<name>wangwu</name>
+		<age>22	</age>
+	</student>
+	<student>
+		<name>zhaoliu</name>
+		<age>26		</age>
+	</student>
+</students>
